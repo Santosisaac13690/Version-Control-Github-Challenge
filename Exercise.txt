@@ -1,0 +1,11 @@
+1. Explain what the terminal is in your own words.
+
+The terminal is where you enter commands to create/remove directories & files. It is also used to push documents into Github where they will be saved in case you make an error. 
+
+2. What is the major difference between Git and Github?
+
+Git is a version control system that manages all of the files associated with your project & it is stored in a repository. Github is a Git repository hosting service.
+
+3. Why do we use Github?
+
+We use Github because it is the most popular Git repository hosting service, it has the strongest features of all git hosting services & it is free to use as long as your repositories are public.
